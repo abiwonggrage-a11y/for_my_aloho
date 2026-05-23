@@ -26,12 +26,12 @@ col1, col2 = st.columns(2)
 
 with col1:
     # Ganti 'foto_kita1.jpg' dengan nama file foto kamu yang ada di folder yang sama
-    st.image(https://drive.google.com/file/d/1S4oBwXnxCyaF479Jo24DyScWhs8cVe6G/view?usp=sharing, caption="bukber kita yang jadi favorite aku soalnya full member!", use_container_width=True)
-    st.image(https://drive.google.com/file/d/1hpdAs9N4OCZ8CgqpsBsIVhPKSY_Lgs3A/view?usp=sharing, caption="walaupun kita gaada perpisahan tapi kita punya foto berkebaya bareng🤍", use_container_width=True)
+    st.image("https://drive.google.com/file/d/1S4oBwXnxCyaF479Jo24DyScWhs8cVe6G/view?usp=sharing", caption="bukber kita yang jadi favorite aku soalnya full member!", use_container_width=True)
+    st.image("https://drive.google.com/file/d/1hpdAs9N4OCZ8CgqpsBsIVhPKSY_Lgs3A/view?usp=sharing", caption="walaupun kita gaada perpisahan tapi kita punya foto berkebaya bareng🤍", use_container_width=True)
 
 with col2:
-    st.image(https://drive.google.com/file/d/1VmwJPwN7jA5-7K7Vapa-dYZovgUlRuKP/view?usp=sharing, caption="selalu berdelapan terus ya!!!", use_container_width=True)
-    st.image(https://drive.google.com/file/d/1J3cUQKq9wg-OLzLM-ADJBuc9pUTK1tpk/view?usp=sharing, caption="makasih! karena kalian, masa masa sma aku bener bener indah💕", use_container_width=True)
+    st.image("https://drive.google.com/file/d/1VmwJPwN7jA5-7K7Vapa-dYZovgUlRuKP/view?usp=sharing", caption="selalu berdelapan terus ya!!!", use_container_width=True)
+    st.image("https://drive.google.com/file/d/1J3cUQKq9wg-OLzLM-ADJBuc9pUTK1tpk/view?usp=sharing", caption="makasih! karena kalian, masa masa sma aku bener bener indah💕", use_container_width=True)
 
 st.markdown("---")
 
