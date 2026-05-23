@@ -26,7 +26,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     # Ganti 'foto_kita1.jpg' dengan nama file foto kamu yang ada di folder yang sama
-    st.image("https://drive.google.com/file/d/1S4oBwXnxCyaF479Jo24DyScWhs8cVe6G/view?usp=sharing", caption="bukber kita yang jadi favorite aku soalnya full member!", use_container_width=True)
+    st.image("WhatsApp Image 2026-05-23 at 14.36.24.jpeg", caption="bukber kita yang jadi favorite aku soalnya full member!", use_container_width=True)
     st.image("WhatsApp Image 2026-05-23 at 14.36.24 (2).jpeg", caption="walaupun kita gaada perpisahan tapi kita punya foto berkebaya bareng🤍", use_container_width=True)
 
 with col2:
