@@ -30,7 +30,7 @@ with col1:
     st.image("WhatsApp Image 2026-05-23 at 14.36.24 (2).jpeg", caption="walaupun kita gaada perpisahan tapi kita punya foto berkebaya bareng🤍", use_container_width=True)
 
 with col2:
-    st.image("https://drive.google.com/file/d/1VmwJPwN7jA5-7K7Vapa-dYZovgUlRuKP/view?usp=sharing", caption="selalu berdelapan terus ya!!!", use_container_width=True)
+    st.image("WhatsApp Image 2026-05-23 at 14.36.23.jpeg", caption="selalu berdelapan terus ya!!!", use_container_width=True)
     st.image("https://drive.google.com/file/d/1J3cUQKq9wg-OLzLM-ADJBuc9pUTK1tpk/view?usp=sharing", caption="makasih! karena kalian, masa masa sma aku bener bener indah💕", use_container_width=True)
 
 st.markdown("---")
